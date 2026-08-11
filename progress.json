@@ -70,5 +70,12 @@
       "Answer for What is the commit message of the commit e352c2c86d9f234393a8975ba1d547d0e73494fa? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786440636.847999,
+    "completed_at": 1786440638.467725,
+    "comments": [],
+    "status": "Completed"
   }
 ]

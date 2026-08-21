@@ -475,5 +475,14 @@
       "You need to merge 'feature-search' first!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787295138.666304,
+    "completed_at": 1787295140.29755,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
   }
 ]
